@@ -4,7 +4,7 @@ CAnD3 Research Replicability &amp; Workflow Management Activity
 ## Study Description
 This study examines the relationships between individual's contribution to their 
 rent/mortgage and respondents' mental and physical health. 
-Using the 2016 General Social Survey, analyses find that 
+Using the 2017 General Social Survey, analyses find that 
 the health-benefits of earning more than a secondary degree vary between male 
 and female respondents. Below, information is included about how to use the 
 files provided to reproduce the analyses leading to this conclusion.
